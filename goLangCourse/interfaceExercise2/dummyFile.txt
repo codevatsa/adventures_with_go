@@ -1,0 +1,1 @@
+Test if file can be read
